@@ -1,0 +1,334 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+}
+#HeaderSection{
+    text-align: center;
+    background-color: #282828;
+    padding: 3px 0px 1px 0px;
+}
+#HeaderSection ul li{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0px 0px 0px 0px;
+    margin: 10px 10px 10px 10px;
+    color: #FFFFFF;
+}
+#BodySection img{
+    border: 1px solid transparent;
+    border-radius: 100%;
+    text-align: left;
+    margin: 156px 700px 103px -116px;
+}
+#BodySection{
+    text-align: center;
+}
+#BodySection h1{
+    font-size: 52px;
+    font-weight: 300;
+    text-align: center;
+    margin: -330px 0px 0px 0px;
+}
+#BodySection h1 span{
+    font-weight: 700;
+    color: #3e3e3e;
+}
+#BodySection p{
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+    margin: 26px -243px 30px 10px;
+}
+#BodySection p span{
+    font-weight: 600;
+    color: #3e3e3e;
+}
+#BodySection button{
+    color: white;
+    width: 26%;
+    font-size: 23px;
+    background-color: #3897bd;
+    padding: 26px 25px;
+    border-radius: 6px;
+    margin: 19px 50px 29px 108px;
+}
+#IconSection{
+    background-color: #f4f4f4;
+}
+.div1 h1{
+    text-align: center;
+    color: #3E3E3E;
+    margin: 122px 0px 48px 0px;
+    font-size: 35px;
+}
+.div1 p{
+    text-align: center;
+    font-size: 21px;
+    color: #888888;
+    font-weight: 100;
+}
+#IconSection{
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: 10px 0px 0px 100px;
+}
+.div2 h1{
+    font-size: 26px;
+    color: #3E3E3E;
+    margin: 0px 0px 13px;
+    text-align: center;
+}
+.div2 p{
+    font-size: 17px;
+    color: #888888;
+    text-align: center;
+}
+.div2 div{
+    width: 30%;
+    background-color: white;
+    display: inline-block;
+    margin: 50px 20px 0px 0px;
+}
+.fa-comments-o{
+    color: #ea8a95;
+    font-size: 90px;
+    font-weight: 400;
+    margin: 18px 0px 18px 154px;
+}
+.fa-camera-retro{
+    color: #ea8a95;
+    font-size: 90px;
+    font-weight: 400;
+    margin: 18px 0px 18px 154px;
+}
+.fa-thumbs-o-up{
+    color: #ea8a95;
+    font-size: 90px;
+    font-weight: 400;
+    margin: 18px 0px 18px 154px;
+}
+.div3{
+    text-align: center;
+}
+.div3 p{
+    font-size: 22px;
+    color: #888888;
+    margin: 59px 84px 48px 0px;
+}
+.div3 button{
+    color: white;
+    width: 26%;
+    font-size: 23px;
+    background-color: #3897bd;
+    padding: 26px 25px;
+    margin: 0px 0px 20px -80px;
+    border-radius: 6px;
+}
+#ImageSection{
+    background-color: #f7f7f7;
+}
+
+.ImageSectionh1{
+    text-align: center;
+    font-size: 34px;
+    color: #3E3E3E;
+    font-weight: 700;
+}
+.ImageSectionp{
+    text-align: center;
+    font-size: 20px;
+    color: #888888;
+    font-weight: 300;
+}
+.div4 div{
+    width: 30%;
+    background-color: white;
+    display: inline-block;
+    margin: 50px 20px 0px 0px;
+}
+.div4 div h1{
+    text-align: center;
+    font-size: 26px;
+    color: #3E3E3E;
+}
+.div4 div p{
+    text-align: center;
+    font-size: 18px;
+    color: #888888;
+}
+.div5 div{
+    width: 30%;
+    background-color: white;
+    display: inline-block;
+    margin: 50px 20px 0px 0px;
+}
+.div5 div h1{
+    text-align: center;
+    font-size: 26px;
+    color: #3E3E3E;
+}
+.div5 div p{
+    text-align: center;
+    font-size: 18px;
+    color: #888888;
+}
+.div6{
+    text-align: center;
+}
+.div6 p{
+    text-align: center;
+    font-size: 22px;
+    color: #888888;
+}
+.div6 button{
+    color: white;
+    width: 26%;
+    font-size: 23px;
+    background-color: #3897bd;
+    padding: 26px 25px;
+    margin: 0px 0px 20px -80px;
+    border-radius: 6px;
+}
+#FooterSection{
+    background-color: #2f2f2f;
+}
+#FooterSection h1{
+    font-size: 35px;
+    color: #FFFFFF;
+    margin: 0px 0px 24px 0px;
+    padding: 90px 0px 0px 0px;
+    text-align: center;
+}
+#FooterSection{
+    text-align: center;
+    color: #999999;
+    font-size: 21px;
+    font-weight: 300;
+}
+.form-control-lg{
+    color: white;
+    background-color: #282828;
+    margin: 10px 20px 14px 10px;
+    padding: 13px 250px 13px 10px;
+    border-radius: 6px;
+    border: 2px solid #282828;
+}
+.form-control1{
+    color: white;
+    background-color: #282828;
+    margin: 10px 20px 14px 10px;
+    padding: 13px 250px 13px 10px;
+    border-radius: 6px;
+    border: 2px solid #282828;
+}
+.form-control2{
+    color: white;
+    background-color: #282828;
+    margin: 10px 21px 14px 10px;
+    padding: 13px 719px 12px 10px;
+    border-radius: 6px;
+    border: 2px solid #282828;
+}
+.form-control3{
+    color: white;
+    background-color: #282828;
+    margin: 10px 21px 14px 10px;
+    padding: 13px 719px 248px 10px;
+    border-radius: 6px;
+    border: 2px solid #282828;
+}
+
+.B1{
+    color: white;
+    width: 18%;
+    font-size: 23px;
+    font-weight: 700;
+    background-color: #3897bd;
+    padding: 20px 0px 20px 0px;
+    margin: 8px -2px 0px 28px;
+    border-radius: 10px;
+}
+.B2{
+    color: white;
+    width: 18%;
+    font-size: 23px;
+    font-weight: 700;
+    background-color: #404040;
+    padding: 20px 0px 20px 0px;
+    margin: 8px -2px 0px 28px;
+    border-radius: 10px;
+}
+.FooterSectionh1{
+    font-size: 26px;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+.fa-facebook{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+.fa-twitter{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px; 
+}
+.fa-dribbble{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+.fa-linkedin{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+.fa-tumblr{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+.fa-google-plus-official{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+.fa-github{
+    font-size: 26px;
+    background-color: #444;
+    color: #2f2e2e;
+    width: 55px;
+    padding: 9px 0px 7px 0px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 6px;
+}
+#FooterSection ul li{
+    display: inline-block;
+    font-size: 16px;
+    padding: 0px 15px;
+    border-right: 1px solid #444;
+}
